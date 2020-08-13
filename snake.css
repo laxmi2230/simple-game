@@ -1,0 +1,11 @@
+body{
+    background-color: rosybrown;
+}
+
+#mycanvas{
+    width: 600px;
+    height: 400px;
+    background-color: seagreen;
+    border: 5px solid blueviolet;
+    margin: 50px;
+}
